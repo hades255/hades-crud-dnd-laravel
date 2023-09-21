@@ -65,3 +65,7 @@ php artisan serve
 ---
 Thanks for looking my project.
 Zhang Zhi
+
+### Screenshot
+
+![/ss/laravel%20crud.png](/ss/laravel%20crud.png)
